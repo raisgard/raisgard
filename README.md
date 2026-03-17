@@ -8,7 +8,7 @@ I'm a Software Development student at BYU-Idaho and a Data Annotation Specialist
 - 🎯 My goal: To become a full-stack software developer  
 - 💬 Ask me about: Data annotation, web development, or UI design  
 
----
+
 
 ## 🛠️ Technologies & Tools
 - **Languages:** HTML, CSS, JavaScript, PHP, SQL  
@@ -17,7 +17,7 @@ I'm a Software Development student at BYU-Idaho and a Data Annotation Specialist
 - **Annotation Tools:** Labelbox, CVAT, Amazon SageMaker, Supervisely  
 - **Design Tools:** Adobe Photoshop, Illustrator, Canva  
 
----
+
 
 ## 📂 Projects
 Here are some of my key projects:
@@ -25,17 +25,16 @@ Here are some of my key projects:
 - 🌐 Portfolio Website – (https://raisgard.github.io/raisgard-portfolio/)
 
 
----
+
 
 ## 📈 GitHub Stats
-(Optional but recommended)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
----
+
 
 ## 🔗 Let's Connect
-- LinkedIn: https://linkedin.com/in/raisgard
-- GitHub: https://github.com/raisgard
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" />
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raisgard)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raisgard)
