@@ -20,9 +20,12 @@ I'm a Software Development student at BYU-Idaho and a Data Annotation Specialist
 
 
 ## 📂 Projects
-Here are some of my key projects:
+- **AI Dataset Annotation** – Annotated image, video, and text datasets for AI/ML model training.  
+- **Responsive Web Projects** – Developed websites for clients using React and WordPress.  
+- **Branding & Graphics** – Created marketing graphics and brand assets for businesses.
+**Here are some of my key projects:**
 
-- 🌐 Portfolio Website – (https://raisgard.github.io/raisgard-portfolio/)
+- 🌐 **Portfolio Website** – (https://raisgard.github.io/raisgard-portfolio/)
 
 
 
