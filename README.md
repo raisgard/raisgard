@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Bolaji Ajibola 👋
 
-<!--
-**raisgard/raisgard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Software Development student at BYU-Idaho and a Data Annotation Specialist with over 5 years of experience working on AI and machine learning projects. I also build responsive websites using modern web technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Web development and AI data annotation projects  
+- 🌱 I’m currently learning: Advanced React and backend development  
+- 🎯 My goal: To become a full-stack software developer  
+- 💬 Ask me about: Data annotation, web development, or UI design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+- **Languages:** HTML, CSS, JavaScript, PHP, SQL  
+- **Frameworks & Tools:** React, WordPress  
+- **Data Tools:** Excel, Google Sheets, CRM Systems  
+- **Annotation Tools:** Labelbox, CVAT, Amazon SageMaker, Supervisely  
+- **Design Tools:** Adobe Photoshop, Illustrator, Canva  
+
+---
+
+## 📂 Projects
+Here are some of my key projects:
+
+- 🌐 Portfolio Website – (https://raisgard.github.io/raisgard-portfolio/)
+
+
+---
+
+## 📈 GitHub Stats
+(Optional but recommended)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+---
+
+## 🔗 Let's Connect
+- LinkedIn: https://linkedin.com/in/raisgard
+- GitHub: https://github.com/raisgard
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" />
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin) 
